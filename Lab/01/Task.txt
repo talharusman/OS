@@ -1,0 +1,44 @@
+1. **Show architecture of machine**:  
+   Use the command `uname -m`. It tells you if your computer is 32-bit or 64-bit.
+
+2. **Show CPU info**:  
+   Use the command `lscpu`. It shows details about your computer's processor, like how fast it is.
+
+3. **Show version of the kernel**:  
+   Use the command `uname -r`. It tells you the version of the Linux system running on your computer.
+
+4. **Show system date**:  
+   Use the command `date`. It shows the current date and time on your computer.
+
+5. **Set date and time**:  
+   Use the command `sudo date MMDDhhmmYYYY` (replace with numbers). It changes the date and time on your computer.
+
+6. **Show details of files and directory**:  
+   Use the command `ls -l`. It shows a list of files and folders with details like size and permissions.
+
+7. **Show hidden files**:  
+   Use the command `ls -a`. It shows all files, including hidden ones that start with a dot (`.`).
+
+8. **Show files and directory containing numbers**:  
+   Use the command `ls *[0-9]*`. It lists files and folders with numbers in their names.
+
+9. **Create a directory called 'dir1'**:  
+   Use the command `mkdir dir1`. It makes a new folder named 'dir1'.
+
+10. **Create two directories simultaneously**:  
+    Use the command `mkdir dir1 dir2`. It creates two folders named 'dir1' and 'dir2' at the same time.
+
+11. **Show the path of work directory**:  
+    Use the command `pwd`. It tells you the location of the folder you are currently in.
+
+12. **Delete file called 'file1'**:  
+    Use the command `rm file1`. It removes the file named 'file1'.
+
+13. **Remove a directory called 'dir1' and contents recursively**:  
+    Use the command `rm -r dir1`. It deletes the folder 'dir1' and everything inside it.
+
+14. **Delete directory called 'dir1'**:  
+    Use the command `rmdir dir1`. It removes the empty folder named 'dir1'.
+
+15. **Modify timestamp of a file or directory**:  
+    Use the command `touch filename`. It updates the timestamp (last modified time) of a file or folder. If the file doesn’t exist, it creates an empty file.
