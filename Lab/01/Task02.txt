@@ -1,5 +1,5 @@
 1. **Show architecture of machine**:  
-   Use the command `uname -m`. It tells you if your computer is 32-bit or 64-bit.
+   Use the command `arch`. It tells you if your computer is 32-bit or 64-bit.
 
 2. **Show CPU info**:  
    Use the command `lscpu`. It shows details about your computer's processor, like how fast it is.
