@@ -1,9 +1,9 @@
-1. **apt-get**: This is a tool you use on the computer to get new programs, learn about them, and put them on your computer. It also helps you update or remove programs when you don't need them anymore.
+1. apt-get: This is a tool you use on the computer to get new programs, learn about them, and put them on your computer. It also helps you update or remove programs when you don't need them anymore.
 
-2. **YUM**: This is another tool for adding new programs to your computer, but it's used for a different kind of computer system. You can tell it to add a program by typing `yum install [program name]`. It can also update programs or delete them if you don't want them anymore.
+2. YUM: This is another tool for adding new programs to your computer, but it's used for a different kind of computer system. You can tell it to add a program by typing `yum install [program name]`. It can also update programs or delete them if you don't want them anymore.
 
-3. **Wget**: This is a simple tool that lets you download files from the internet straight to your computer. It works quietly in the background, so you can do other things on your computer while it downloads, and it keeps going even if you turn off the internet.
+3. Wget: This is a simple tool that lets you download files from the internet straight to your computer. It works quietly in the background, so you can do other things on your computer while it downloads, and it keeps going even if you turn off the internet.
 
-4. **Tar and Gzip**: These are tools that help you pack files into a smaller bundle (tar) and then squeeze them to take up less space (gzip). People usually use them together to make files easier to send or save.
+4. Tar and Gzip: These are tools that help you pack files into a smaller bundle (tar) and then squeeze them to take up less space (gzip). People usually use them together to make files easier to send or save.
 
-5. **Rar**: This is a special way to pack and squeeze files so they take up less space and are easier to send. The `rar` command lets you create these packed files, open them, or change them. It's good for when you have big files or lots of files you want to keep together.
+5. Rar: This is a special way to pack and squeeze files so they take up less space and are easier to send. The `rar` command lets you create these packed files, open them, or change them. It's good for when you have big files or lots of files you want to keep together.
