@@ -10,6 +10,7 @@ else
 fi
 ```
 # output
+![image](https://github.com/user-attachments/assets/fa0b1791-a178-4493-ab10-863398623d88)
 
 # file content
 
