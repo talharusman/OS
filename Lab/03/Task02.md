@@ -18,3 +18,5 @@ done
 echo "Number of vowels: $vow"
 ```
 # output
+![image](https://github.com/user-attachments/assets/bd097f8a-bf72-4e5d-82e5-13c16bba03ea)
+
