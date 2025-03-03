@@ -42,3 +42,6 @@ else
 fi
 ```
 # output
+![image](https://github.com/user-attachments/assets/396a94df-0958-4564-9bf4-5f4c4a5498ca)
+
+
